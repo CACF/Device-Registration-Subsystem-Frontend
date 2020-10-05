@@ -211,7 +211,7 @@ class Dashboard extends Component {
           <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
-                <svg className="icon-registration" fill="#3f51b5">
+                <svg className="icon-registration" fill="#ce2029">
                   <use xlinkHref="./img/svg-symbol.svg#regRequest"></use>
                 </svg>
               </div>
@@ -233,7 +233,7 @@ class Dashboard extends Component {
           <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
-                <svg className="icon-registration" fill="#3f51b5">
+                <svg className="icon-registration" fill="#ce2029">
                   <use xlinkHref="./img/svg-symbol.svg#deRegRequest"></use>
                 </svg>
               </div>
@@ -309,7 +309,7 @@ class Dashboard extends Component {
           <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
-                <svg className="icon-registration" fill="#3f51b5">
+                <svg className="icon-registration" fill="#ce2029">
                   {(userRole === EXPORTER) ? <use xlinkHref="./img/svg-symbol.svg#deRegRequest"></use> : <use xlinkHref="./img/svg-symbol.svg#regRequest"></use>}
                 </svg>
               </div>

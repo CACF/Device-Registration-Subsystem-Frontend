@@ -197,7 +197,7 @@ body {
 		}
 
 		&.case-pending {
-			border: $blue 1px solid;
+			border: $theme-primary 1px solid;
 
 			.case-head {
 
@@ -208,7 +208,7 @@ body {
 						a {
 
 							&:hover {
-								color: $blue;
+								color: $theme-primary;
 							}
 
 						}
@@ -220,7 +220,7 @@ body {
 						.status {
 
 							b {
-								color: $blue;
+								color: $theme-primary;
 							}
 
 						}
@@ -1870,7 +1870,7 @@ body {
 		}
 
 		span {
-			color: #3f51b5;
+			color: $theme-primary;
 		}
 
 	}
@@ -2214,8 +2214,8 @@ body {
 	border-radius: 0.35rem;
 
 	&.pendbx {
-		-webkit-box-shadow: 1.414px 1.414px 0px 0px rgba(63, 81, 181, 0.5);
-		box-shadow: 1.414px 1.414px 0px 0px rgba(63, 81, 181, 0.5);
+		-webkit-box-shadow: 1.414px 1.414px 0px 0px rgba(215, 25, 33, 0.5);
+		box-shadow: 1.414px 1.414px 0px 0px rgba(215, 25, 33, 0.5);
 	}
 
 	&.inrevibx {
@@ -2292,7 +2292,7 @@ body {
 		}
 
 		a {
-			color: #3f51b5;
+			color: $theme-primary;
 		}
 
 	}
