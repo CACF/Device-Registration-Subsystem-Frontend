@@ -254,7 +254,7 @@ class Dashboard extends Component {
           </ul>
         </Col>
         <Col sm={6} xl={3}>
-          <ul className="dashbx inrevibx">
+          <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
                 <svg className="icon-registration" fill="#6c757d">
@@ -278,7 +278,7 @@ class Dashboard extends Component {
           </ul>
         </Col>
         <Col sm={6} xl={3}>
-          <ul className="dashbx inrevibx">
+          <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
                 <svg className="icon-registration" fill="#6c757d">
@@ -352,7 +352,7 @@ class Dashboard extends Component {
           </ul>
         </Col>
         <Col sm={6} xl={3}>
-          <ul className="dashbx inrevibx">
+          <ul className="dashbx pendbx">
             <li>
               <div className="iconbx">
                 <svg className="icon-registration" fill="#6c757d">
